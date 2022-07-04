@@ -2,7 +2,9 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on AI/ML
-- 📫 How to reach me - do use "Pull Request"
+- 📫 How to reach me - Use "Pull Request"
+
+
 
 <!---
 BeatrixPotter/BeatrixPotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
